@@ -1,0 +1,8 @@
+cliente web que consume la API PokéAPI, al ingresar a la aplicación en el campo de entrada, puede escribir "pokemon", "tipo", "generacion" 
+para obtener la información de la API mencionada antes y presentarla en una tabla, justo debajo del botón "enviar"
+
+la información obtenida por el metodo get, se puede encontrar en los siguientes links:
+
+https://pokeapi.co/api/v2/pokemon
+https://pokeapi.co/api/v2/type
+https://pokeapi.co/api/v2/generation

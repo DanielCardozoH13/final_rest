@@ -1,0 +1,4 @@
+Esta es una aplicación de escritrio que consume la API PokéAPI con el metodo get, la aplicación esta desarrollada en python3.7.
+
+Si esta en SO como windows y no tiene instalado python3.7, puede ver la ejecución del programa ejecutando el archivo ejecutable/rest_pokeapi.exe,
+al ejecutar la aplicación se abrira una ventana con tres botones, al oprimir alguno de ellos, se generara una tabla con la información obtenida de la API
